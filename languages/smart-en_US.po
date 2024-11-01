@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-13 16:06+0300\n"
+"PO-Revision-Date: 2018-10-13 16:06+0300\n"
+"Last-Translator: flashblue <flashblue80@hotmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/widget.class.php:13
+msgid "Display CodeGrape items with this widget"
+msgstr ""
+
+#: ../includes/widget.class.php:15
+msgid "Smart CodeGrape Widget"
+msgstr ""
+
+#: ../includes/widget.class.php:42 ../includes/widget.class.php:107
+msgid "View more"
+msgstr ""
+
+#: ../includes/widget.class.php:140
+msgid "Title"
+msgstr ""
+
+#: ../includes/widget.class.php:145
+msgid "Description"
+msgstr ""
+
+#: ../includes/widget.class.php:150
+msgid "Item categories to show"
+msgstr ""
+
+#: ../includes/widget.class.php:157
+msgid "Select items from"
+msgstr ""
+
+#: ../includes/widget.class.php:158
+msgid "Latest Items"
+msgstr ""
+
+#: ../includes/widget.class.php:159
+msgid "Specific User(s)"
+msgstr ""
+
+#: ../includes/widget.class.php:163
+msgid "CodeGrape username(s)"
+msgstr ""
+
+#: ../includes/widget.class.php:165
+msgid "For multiple users, separate by comma: i.e. user1,user2,user3"
+msgstr ""
+
+#: ../includes/widget.class.php:169
+msgid "Number of items to show"
+msgstr ""
+
+#: ../includes/widget.class.php:174
+msgid "Order by"
+msgstr ""
+
+#: ../includes/widget.class.php:176
+msgid "Upload date"
+msgstr ""
+
+#: ../includes/widget.class.php:177
+msgid "Last update"
+msgstr ""
+
+#: ../includes/widget.class.php:178
+msgid "Number of sales"
+msgstr ""
+
+#: ../includes/widget.class.php:179
+msgid "Price"
+msgstr ""
+
+#: ../includes/widget.class.php:180
+msgid "Random"
+msgstr ""
+
+#: ../includes/widget.class.php:185
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/widget.class.php:186
+msgid "Descending"
+msgstr ""
+
+#: ../includes/widget.class.php:190
+msgid "Exclude item(s)"
+msgstr ""
+
+#: ../includes/widget.class.php:192
+msgid ""
+"Specify item ID to exclude specific item (separate by comma for multiple "
+"items): i.e. 8134834,7184572"
+msgstr ""
+
+#: ../includes/widget.class.php:196
+msgid "Referral user"
+msgstr ""
+
+#: ../includes/widget.class.php:198
+msgid "Specify username if you want to use items as CodeGrape affiliate links"
+msgstr ""
+
+#: ../includes/widget.class.php:202
+msgid "More link URL"
+msgstr ""
+
+#: ../includes/widget.class.php:204
+msgid "Specify URL if you want to show \"more\" link under the items list"
+msgstr ""
+
+#: ../includes/widget.class.php:208
+msgid "More link text"
+msgstr ""
+
+#: ../includes/widget.class.php:213
+msgid "Open items in"
+msgstr ""
+
+#: ../includes/widget.class.php:215
+msgid "New Window"
+msgstr ""
+
+#: ../includes/widget.class.php:216
+msgid "Same Window"
+msgstr ""
